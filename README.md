@@ -4,6 +4,7 @@
 ## Installation
 
 https://discordapp.com/oauth2/authorize?client_id=610670137728565249&scope=bot
+\n
 Add your discord server
 
 ## License
